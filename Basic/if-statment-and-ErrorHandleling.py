@@ -1,3 +1,5 @@
+#This explain in one example the "if" statment and "error handleling" in just one code and very important understand the logic
+
 exam = input("Did you take the exam? (yes/no): ").strip().lower().upper()
 
 if exam == "yes":
