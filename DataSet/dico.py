@@ -1,3 +1,5 @@
+#in this file you find also some statment for data manipulation
+
 person = {"name": "Alice", "age": 30}
 
 # Add or update
